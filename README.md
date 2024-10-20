@@ -17,8 +17,8 @@ Regular `pip` will work OK too.
 Three examples of tools that were initially created using this template:
 
 - [meet](https://github.com/sukhbinder/meet): A comand-line utility for taking setting outlook meetings from cli
-- [cronzy](https://github.com/sukhbinder/cronzy: A crontab implementation to for windows and simple text interface
-- [pyscheduler](https://github.com/sukhbinder/pyscheduler:  Tools for accessing scheduler via cli
+- [cronzy](https://github.com/sukhbinder/cronzy): A crontab implementation to for windows and simple text interface
+- [pyscheduler](https://github.com/sukhbinder/pyscheduler):  Tools for accessing scheduler via cli
 
 ## Usage
 
