@@ -17,11 +17,11 @@ pip install {{ cookiecutter.hyphenated }}
 
 For help, run:
 ```bash
-{{ cookiecutter.hyphenated }} --help
+{{ cookiecutter.entrypoint_name }} --help
 ```
 You can also use:
 ```bash
-python -m {{ cookiecutter.underscored }} --help
+python -m {{ cookiecutter.entrypoint_name }} --help
 ```
 ## Development
 
