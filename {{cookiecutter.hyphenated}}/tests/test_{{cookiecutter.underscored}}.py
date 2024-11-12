@@ -1,4 +1,4 @@
-from {{ cookiecutter.underscored }}.cli import cli
+from {{ cookiecutter.underscored }} import cli
 
 
 def test_create_parser():
